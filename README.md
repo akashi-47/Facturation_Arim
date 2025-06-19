@@ -4,7 +4,7 @@ Ce projet est une application backend développée avec **Spring Boot**, permett
 
 ## 🛠️ Technologies utilisées
 
-- **Java 17**
+- **Java 19**
 - **Spring Boot 3**
 - **Spring Web** – pour créer des API REST
 - **Spring Data JPA** – pour la gestion des entités et des bases de données
